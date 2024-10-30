@@ -9,16 +9,15 @@
   width: 0;
   height: 0;
   border-style: solid;
-  border-width: 10px 10px 10px 10px;
+  border-width: 100px 100px 100px 100px;
   border-color: pink transparent red transparent;
 }
 .span1 {
-  font-size: 12px;
+  font-size: 120px;
   display: inline-block;
-  -webkit-transform: scale(0.8);
 }
 .span2 {
   display: inline-block;
-  font-size: 12px;
+  font-size: 120px;
 }
 </style>
