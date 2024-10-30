@@ -1,7 +1,7 @@
 <template>
   <div class="box"></div>
-  <span class="span1">我是</span>
-  <span class="span2">帅锅</span>
+  <span class="span1">我是1</span>
+  <span class="span2">帅锅2</span>
 </template>
 
 <style scoped>
