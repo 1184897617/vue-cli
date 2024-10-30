@@ -1,7 +1,7 @@
 <template>
   <div class="box"></div>
-  <span class="span1">测试10px</span>
-  <span class="span2">测试12px</span>
+  <span class="span1">我是</span>
+  <span class="span2">帅锅</span>
 </template>
 
 <style scoped>
